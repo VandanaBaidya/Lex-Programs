@@ -1,4 +1,4 @@
-/* 6. Write a lex program to recognize whether a given sentence is simple or compound. */
+/* Write a lex program to recognize whether a given sentence is simple or compound. */
 
 %{
 	#include<stdio.h>
